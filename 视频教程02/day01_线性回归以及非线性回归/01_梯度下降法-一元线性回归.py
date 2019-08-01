@@ -1,10 +1,3 @@
-"""
-来源：
-    bilibili:机器学习算法基础
-网址：
-    https://www.bilibili.com/video/av37947862/?p=16
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 
